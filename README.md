@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GraceAkintoye
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learninng C++ and Python
-- 💞️ I’m looking to collaborate on any research in Artificial Intelligence
+- 💞️ I’m looking for internships in software engineering
 
 
 <!---
